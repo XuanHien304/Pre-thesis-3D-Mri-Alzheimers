@@ -12,7 +12,7 @@ def train():
 	best_val_loss = float('inf') # Initial best validation loss
 
 	# Load parameters
-	params = json.load(open('./config/train_config.json', 'r'))
+	params = json.load(open('./config/config_train.json', 'r'))
 	pprint(params)
 
 	# LOAD TRAINER
