@@ -1,0 +1,6 @@
+torch
+pandas
+nibale
+torchio
+scikit-learn
+efficientnet_pytorch_3d 
